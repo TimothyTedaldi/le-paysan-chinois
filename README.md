@@ -2,7 +2,7 @@
 
 ## What's in it ?
 
-This repository contains the ressources to build the Website ("https://timothytedaldi.github.io/le-paysan-chinois/index.html") 
+This repository contains the ressources to build the Website (" https://timothytedaldi.github.io/le-paysan-chinois/") 
 
 ## How was my time spent ?
 
